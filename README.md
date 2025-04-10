@@ -63,7 +63,7 @@ This notebook explores and analyzes the **IPL 2025 Mega Auction dataset** using 
 Hi! I’m **Om Choksi**, a third-year AIML student passionate about solving real-world problems using data science, ML, and creative analytics. I love turning raw data into clean visuals and smart dashboards.
 
 🔗 [My Kaggle Profile](https://www.kaggle.com/omchoksi04)  
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/omchoksi) *(Add your profile link if you want)*  
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/omchoksi)  
 
 ---
 
