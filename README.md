@@ -69,18 +69,11 @@ Hi! I’m **Om Choksi**, a third-year AIML student passionate about solving real
 
 ## 📁 Files Included
 
-- `IPL_MEGA_AUCTION_2025.ipynb` – Full Analysis Notebook  
-- `README.md` – Project Summary  
+- `IPL_MEGA_AUCTION_2025.ipynb` – Full Analysis Notebook
+- `ipl_2025_auction_players.csv` - Dataset
+- `README.md` 
 
----
 
-## 📈 Future Enhancements
-
-- Add interactive dashboards using **Plotly** or **Tableau**  
-- Build a player price prediction model  
-- Create team-wise strategy visualizer  
-
----
 
 > 🔥 *"Analytics is the game-changer — just like a surprise pick in the IPL auction."*
 
